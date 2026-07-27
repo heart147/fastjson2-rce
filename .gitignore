@@ -1,0 +1,22 @@
+# Build artifacts
+target/
+*.class
+*.jar
+*.jar.original
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Poc runtime
+poc/logs/
+poc/www/
+poc/lib/
+
+# Extracted junk
+org/
